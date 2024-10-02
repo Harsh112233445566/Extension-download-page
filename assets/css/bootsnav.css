@@ -1,16 +1,4 @@
-/* ==============================================================
 
-Template name : Bootsnav - Multi Purpose Header
-Categorie : Bootstrap Menu in CSS
-Author : adamnurdin01
-Version : v.1.2
-Created : 2016-06-02
-Last update : 2016-10-19
-
-============================================================== */
-
-/* MEGAMENU STYLE
-=================================*/
 nav.bootsnav .dropdown.megamenu-fw {
     position: static;
 }
@@ -37,8 +25,6 @@ nav.bootsnav .dropdown.megamenu-fw .dropdown-menu {
     right: 0;
 }
 
-/* Navbar
-=================================*/
 nav.navbar.bootsnav{
     margin-bottom: 0;
     -moz-border-radius: 0px;
@@ -100,8 +86,7 @@ ul.menu-col li a:focus{
     text-decoration: none;
 }
 
-/* Navbar Full
-=================================*/
+
 nav.bootsnav.navbar-full{
     padding-bottom: 10px;
     padding-top: 10px;
